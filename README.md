@@ -7,7 +7,7 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output
-````
+
 ### Introduction to Generative AI
 
 Generative AI, a dynamic and rapidly evolving subfield of artificial intelligence, focuses on creating new, original data instances that plausibly come from the same distribution as the training data. Unlike traditional AI models designed for tasks such as classification or prediction (discriminative tasks), generative models learn the inherent patterns and structures within a dataset and then leverage this understanding to synthesize novel data points. This capability extends across various data modalities, including text, images, audio, video, and even code, opening up a plethora of innovative applications.   
@@ -104,7 +104,7 @@ Addressing the ethical considerations while harnessing the transformative potent
 ![image](https://github.com/user-attachments/assets/a5947efa-2d4f-4835-8425-08f794779760)
 
 ![image](https://github.com/user-attachments/assets/2498a33f-163a-4144-a3d0-1f82f993720e)
-```
+
 
 # Result:
   In summary, Generative AI represents a paradigm shift in artificial intelligence, moving beyond analysis and prediction to the creation of novel data. Foundational concepts in machine learning and deep learning underpin the various generative models, including VAEs, GANs, and transformer-based architectures. These models learn the intricate probability distributions of their training data, enabling them to synthesize realistic outputs across diverse modalities. The working mechanisms involve complex neural network architectures and training processes aimed at minimizing the discrepancy between generated and real data.   
